@@ -1,4 +1,4 @@
-# getx
+# GetX_Counter
 
 A new Flutter project.
 
